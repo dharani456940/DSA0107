@@ -1,0 +1,5 @@
+{
+  "name": "smart-workforce-server",
+  "version-string": "1.0.0",
+  "dependencies": ["drogon", "libsodium", "sqlite3"]
+}
